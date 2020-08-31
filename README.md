@@ -18,9 +18,9 @@ URL: http://localhost:8080/JAXRSJsonCRUDExample/rest/products/placeOrder
 Note: please send request in JSON format.
 
 6.  able to get the available stock details across products. This should consider the dummy orders placed and return stocks accordingly. 
-URL: http://localhost:8080/JAXRSJsonCRUDExample/rest/products/cancelOrder/LL1
+URL: http://localhost:8080/JAXRSJsonCRUDExample/rest/products/allProducts
 
 7.  able to delete the dummy order(s)
-URL:  http://localhost:8080/JAXRSJsonCRUDExample/rest/products/placeOrder
+URL:  http://localhost:8080/JAXRSJsonCRUDExample/rest/products/cancelOrder/LL1
  
 
