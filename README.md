@@ -1,5 +1,5 @@
 #HSBC-Project sample requirement.
-Contents covered :
+#Contents covered :
 
 1. get the list of all the products across all the categories
 URL:   http://localhost:8080/JAXRSJsonCRUDExample/rest/products/allProducts
